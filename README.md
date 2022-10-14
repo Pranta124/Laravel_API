@@ -1,2 +1,4 @@
 # Laravel_API
-API project : different types of relation based data, passport authentication, Error Exception throw
+```
+Laravel Backend API project : Different types of relation based data, passport authentication, Login,Logout,Register,User info, Error Exception throw(Exception Handeler)
+```
