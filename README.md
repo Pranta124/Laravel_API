@@ -61,7 +61,7 @@ This is api documentation https://documenter.getpostman.com/view/23872423/2s8479
 ```
 app - Contains all the Eloquent models
 app/Http/Controllers/OrderController - Contains all the Order controllers
-app/Http/Controllers/AuthController - Contains all the Order controllers
+app/Http/Controllers/AuthController - Contains all the Auth controllers
 app/Exceptions/Handler - Contains different types of Exception
 app\Http\Resources\OrderResource - Contains all the Api Resource
 database/migrations - Contains all the database migrations
