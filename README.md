@@ -8,14 +8,22 @@
 </p>
 
 ## Getting started
-##Installation
+## Installation
 
 Please check the official laravel installation guide for server requirements before you start. Official Documentation
+
 Clone the repository
 ```
 git clone git@github.com:Pranta124/Laravel_API.git
 ```
-
+Install all the dependencies using composer
+```
+composer install
+```
+Copy the example env file and make the required configuration changes in the .env file
+```
+cp .env.example .env
+```
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
