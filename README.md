@@ -44,13 +44,16 @@ composer install
 cp .env.example .env
 php artisan key:generate
 ```
+## SQL file download
+https://github.com/Pranta124/SQL_file/blob/main/order1.zip
+Download this zip file and than extract this file.And  this file import your xampp.Then serve. 
+
 Make sure you set the correct database connection information before running the migrations Environment variables
 ```
 php artisan migrate
 php artisan serve
 ```
-## SQL file download
-https://github.com/Pranta124/SQL_file/blob/main/order1.zip
+
 
 ## API Documentation(POSTMAN)
 This is api documentation https://documenter.getpostman.com/view/23872423/2s8479yGg3
