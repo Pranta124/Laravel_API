@@ -49,6 +49,9 @@ Make sure you set the correct database connection information before running the
 php artisan migrate
 php artisan serve
 ```
+## SQL file download
+https://github.com/Pranta124/SQL_file/blob/main/order1.zip
+
 ## API Documentation(POSTMAN)
 This is api documentation https://documenter.getpostman.com/view/23872423/2s8479yGg3
 ### Folders
