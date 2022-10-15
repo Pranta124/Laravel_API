@@ -50,9 +50,7 @@ php artisan migrate
 php artisan serve
 ```
 ## API Documentation(POSTMAN)
-```
-https://documenter.getpostman.com/view/23872423/2s8479yGg3
-```
+This is api documentation https://documenter.getpostman.com/view/23872423/2s8479yGg3
 ### Folders
 ```
 app - Contains all the Eloquent models
