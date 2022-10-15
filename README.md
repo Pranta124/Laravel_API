@@ -61,7 +61,8 @@ app/Http/Controllers/AuthController - Contains all the Order controllers
 app/Exceptions/Handler - Contains different types of Exception
 app\Http\Resources\OrderResource - Contains all the Api Resource
 database/migrations - Contains all the database migrations
-routes - Contains all the api routes defined in Order/details.php file (Custome route)
+app/Providers/RouteServiceProvider - Contains Custom route set
+routes - Contains all the api routes defined in Order/details.php file (Custom route)
 ```
 ## Environment variables
 .env - Environment variables can be set in this file
